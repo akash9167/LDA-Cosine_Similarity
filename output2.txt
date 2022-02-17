@@ -1,0 +1,6 @@
+Article 0 and 2 similarity: 0.230986193133362
+Article 0 and 1 similarity: 0.23099190171491613
+Article 0 and 3 similarity: 0.23099258254605481
+Article 2 and 3 similarity: 0.9999999999424906
+Article 1 and 2 similarity: 0.999999999976923
+Article 1 and 3 similarity: 0.999999999980617
